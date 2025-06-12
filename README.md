@@ -68,7 +68,7 @@ Me chamo Luccas Naitzk, tenho 19 anos e sou de Rio Claro - SP. Atualmente estou 
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" 
+    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" 
 />
 <img 
     align="left" 
