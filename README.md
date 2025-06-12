@@ -12,7 +12,7 @@ Me chamo Luccas Naitzk, tenho 19 anos e sou de Rio Claro - SP. Atualmente estou 
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="email:luccasnaitzk@gmail.com">
+    <a href="malito:luccasnaitzk@gmail.com">
         <img 
             alt="Contate pelo email" 
             title="Gmail" 
